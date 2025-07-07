@@ -1,5 +1,4 @@
-MERN, java, python.
+Loved one. 2 diff meanings it got
 
-India,TN
 
-Cooked & unfair
+lowkey im cooked? 
