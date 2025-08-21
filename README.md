@@ -23,7 +23,7 @@
 <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
   <img height="80" src="https://skillicons.dev/icons?i=js,nodejs,java,python,go,html,css,aws,git,github,vscode,idea,mysql,mongodb" alt="Tech stack icons" />
 </a>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Deyoyk&theme=tokyonight-duo&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 ---
 
 ##  Let's Connect!
