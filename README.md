@@ -24,12 +24,10 @@
   <img height="80" src="https://skillicons.dev/icons?i=js,nodejs,java,python,go,html,css,aws,git,github,vscode,idea,mysql,mongodb" alt="Tech stack icons" />
 </a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Deyoyk&theme=tokyonight-duo&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
----
 
 ##  Let's Connect!
 ⭐ **Discord:** loqkey  
 ⭐ **Portfolio:** [deyo.lol](http://deyo.lol)  
 
----
 
 <p align="center">✨ Ready to build something cool? Hit me up! ✨</p>
