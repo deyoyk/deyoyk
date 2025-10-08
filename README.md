@@ -1,33 +1,13 @@
-<h1 align="center">⭐ Heyo! I'm <span style="color:#4CAF50;">Deyo</span> — I code awesome stuff ⭐</h1>
+Hello everyone,
 
----
+For a while now, I’ve been struggling greatly with my mental health and have been finding it increasingly hard to keep up with the stress. I feel like I am constantly thinking about my life experiences and difficulties and I’ve now gotten to the point where I must put my mental well-being first.
 
-## 🔥 What Can I Cook Up?
-⭐ Custom Minecraft plugins tailored just for you  
-⭐ Forks of open-source projects with extra magic  
-⭐ Automation tools & Discord bots to make life easier  
-⭐ Docker & Kubernetes orchestration  
-⭐ System administration wizardry  
+I want to thank all of you that have chosen to believe and support me. Thank all of you who took a chance on me, I very much appreciate those of you who all supported me financially and personally during this time. I am grateful for every single one of you.
 
----
+I’ve decided to leave coding for good (including Discord bots, website work, Minecraft servers, etc). I’ve deleted my Discord account (loqkey). While I do plan to open source everything I have worked on at some point, I cannot provide a time frame for this.
 
-## Projects I’ve Been Cooking
-### ⭐ Ranked Bedwars System ⭐
-- Solo-developed a fully automated Ranked Bedwars system with queue & scoring magic  
-- Custom features crafted on request  
-- Integrates smoothly with Bedwars1058, MBedwars, and many more  
+Thank you to everyone who has been involved in this journey with me.
+It truly has been a wonderful experience.
 
----
-
-## 🛠 Tech I Rock With  
-<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-  <img height="80" src="https://skillicons.dev/icons?i=js,nodejs,java,python,go,html,css,aws,git,github,vscode,idea,mysql,mongodb" alt="Tech stack icons" />
-</a>
-<a align="center href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Deyoyk&theme=tokyonight-duo&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
-
-##  Let's Connect!
-⭐ **Discord:** loqkey  
-⭐ **Portfolio:** [deyo.lol](http://deyo.lol)  
-
-
-<p align="center">✨ Ready to build something cool? Hit me up! ✨</p>
+Yours truly,
+deyo
