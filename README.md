@@ -1,6 +1,1 @@
-hi
-i code stuff
-i love tech
-i love games
-i love women
-bye
+Hi, I'm deyo and im 20y/o kid from india/tn and i love to code
