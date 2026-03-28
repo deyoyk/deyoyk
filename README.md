@@ -19,6 +19,7 @@ Currently exploring:
 • DevOps, orchestration, and cloud architecture  
 
 Projects I've worked on include:
+
 • Thinky – modular AI SaaS assistant platform  
 • Reintra – reinforcement learning-based trading system  
 • Radium – scalable open-source profile/portfolio platform  
@@ -27,8 +28,6 @@ Projects I've worked on include:
  GitHub: https://github.com/deyoyk  
  Discord: @confessingtoday
 </samp>
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deyoyk/deyoyk/output/github-contribution-grid-snake-dark.svg">
