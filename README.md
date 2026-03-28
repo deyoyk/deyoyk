@@ -7,22 +7,24 @@ I'm Deyo Dyalan (Karthik), a 20-year-old Computer Science student specializing i
 I work across Java, TypeScript, and Python, focusing on backend architecture, system design, and real-time systems.
 
 I've built and contributed to:
-• High-performance Minecraft server systems (1,000+ concurrent players)
-• API-driven matchmaking systems using Redis & MongoDB
-• AI-powered SaaS platforms and automation tools
-• Open-source developer platforms and experimental AI systems
+
+   • High-performance Minecraft server systems (1,000+ concurrent players)
+   • API-driven matchmaking systems using Redis & MongoDB
+   • AI-powered SaaS platforms and automation tools
+   • Open-source developer platforms and experimental AI systems
 
 Currently exploring:
-• AI agents & reasoning systems  
-• SaaS infrastructure & monetization  
-• Distributed systems & scaling  
-• DevOps, orchestration, and cloud architecture  
+
+   • AI agents & reasoning systems  
+   • SaaS infrastructure & monetization  
+   • Distributed systems & scaling  
+   • DevOps, orchestration, and cloud architecture  
 
 Projects I've worked on include:
 
-• Thinky – modular AI SaaS assistant platform  
-• Reintra – reinforcement learning-based trading system  
-• Radium – scalable open-source profile/portfolio platform  
+   • Thinky – modular AI SaaS assistant platform  
+   • Reintra – reinforcement learning-based trading system  
+   • Radium – scalable open-source profile/portfolio platform  
 
  Website: https://deyo.lol  
  GitHub: https://github.com/deyoyk  
