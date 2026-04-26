@@ -24,7 +24,7 @@ I work across Java, TypeScript, and Python, focusing on backend architecture, sy
 > - Radium – scalable open-source profile/portfolio platform
 
 ## > Links
-> - Website: https://deyo.lol
+> - Website: https://heydeyo.lol
 > - GitHub: https://github.com/deyoyk
 > - Discord: @confessingtoday
 
