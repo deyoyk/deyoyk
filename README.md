@@ -1,6 +1,4 @@
-# Hey there!
-
-<br>
+![garden](./garden.png)
 
 I'm Deyo Dyalan (Karthik), a 20-year-old Computer Science student specializing in AI/ML from Chennai, India, building scalable systems, SaaS products, and high-performance backend infrastructure.
 
